@@ -1,7 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Terminal</title><link>/t-hashed.io/</link><description>Recent content on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/t-hashed.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/t-hashed.io/</link><pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate><guid>/t-hashed.io/</guid><description>Hashed provides products and services enabled by blockchain technology. Our platform features high quality, well-tested building blocks that jumpstart new product development.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Terminal</title><link>/t-hashed.io/</link><description>Recent content on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/t-hashed.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Generating liquidity from illiquid assets</title><link>/t-hashed.io/projects/</link><pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate><guid>/t-hashed.io/projects/</guid><description>Using Wyoming’s new legislation recognizing digital identities, assets, and organizations, we developed a legal and technological playbook that enables LLCs to directly tokenize its assets on-chain, where they can be trustlessly traded or used as collateral.
+We follow this playbook ourselves for tokenizing land, and the on-chain tokens are legally-recognized as final settlement for ownership of the LLC. Contact us to get started tokenizing your assets or crowdfunding the purchase of new ones.</description><content>&lt;p>Using Wyoming’s new legislation recognizing digital identities, assets, and organizations, we developed a legal and technological playbook that enables LLCs to directly tokenize its assets on-chain, where they can be trustlessly traded or used as collateral.&lt;/p>
+&lt;p>We follow this playbook ourselves for tokenizing land, and the on-chain tokens are legally-recognized as final settlement for ownership of the LLC. Contact us to get started tokenizing your assets or crowdfunding the purchase of new ones.&lt;/p>
+&lt;h5 id="our-work">Our Work&lt;/h5>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Project&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Top 10 Global Bank&lt;/td>
+&lt;td>Designed and built &lt;strong>enterprise grade blockchain&lt;/strong> infrastructure for managing digital assets that will be traded between world-class financial institutions&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Hypha&lt;/td>
+&lt;td>Multi-tenant &lt;strong>DAO&lt;/strong> platform with support for flexible governance models, double-entry accounting classifications and reports. Compliant with Wyoming DAO LLC Act, DAO-to-DAO agreements, payroll, treasury, and more.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>BennyFi&lt;/td>
+&lt;td>&lt;strong>DeFi&lt;/strong> product with Premium Bond mechanics that leverage crypto yields to incentivize high return savings that don’t risk the principal.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Diamond Standard&lt;/td>
+&lt;td>Backed 1:1 by diamond clusters, &lt;strong>NFTs&lt;/strong> secured via NFC, and custom-made cabinet vaults for custodians. Enabling the trading of diamonds as a commodity.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Telos Kitchen&lt;/td>
+&lt;td>Pioneer block &lt;strong>producer candidate&lt;/strong> on the Telos network. Focused building open-source developer utilities and re-usable application components.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Proxy Financial&lt;/td>
+&lt;td>Blockchain applications for &lt;strong>real estate Broker-Dealers&lt;/strong>, including key tools for selling new products, sourcing capital, and holistically managing a public funding offering.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Snyder &amp;amp; Kearny&lt;/td>
+&lt;td>Develop a &lt;strong>due diligence analytics platform for publicly traded real estate funds&lt;/strong>: REITS, IF, and CEF. The proprietary algorithms use historical and Html parsed data of SEC public filings.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h5 id="current-stack">Current Stack&lt;/h5>
+&lt;blockquote>
+&lt;p>Ethereum | Solana | Polkadot | Flow | EOSIO | Kusama | Wax&lt;/p>
+&lt;/blockquote></content></item><item><title/><link>/t-hashed.io/posts/post-1/</link><pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate><guid>/t-hashed.io/posts/post-1/</guid><description>Hashed provides products and services enabled by blockchain technology. Our platform features high quality, well-tested building blocks that jumpstart new product development.
 We operate high-availability, low-latency production nodes on the world’s top networks. Our experienced team has a proven track record of repeatedly delivering best of breed outcomes.Our focus areas Asset Tokenization | Crypto-native Governance | Node Operations | NFT | Identity Management | DAO | Smart Contract Audits | Digital Asset Security | Bitcoin | Document Graph</description><content>&lt;p>Hashed provides products and services enabled by blockchain technology. Our platform features high quality, well-tested building blocks that jumpstart new product development.&lt;/p>
 &lt;p>We operate high-availability, low-latency production nodes on the world’s top networks. Our experienced team has a proven track record of repeatedly delivering best of breed outcomes.&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p>
 &lt;h6 id="our-focus-areas">Our focus areas&lt;/h6>
 &lt;blockquote>
 &lt;p>Asset Tokenization | Crypto-native Governance | Node Operations | NFT | Identity Management | DAO | Smart Contract Audits | Digital Asset Security | Bitcoin | Document Graph&lt;/p>
-&lt;/blockquote></content></item></channel></rss>
+&lt;/blockquote></content></item><item><title>An underrated speech</title><link>/t-hashed.io/articles/article-1/</link><pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate><guid>/t-hashed.io/articles/article-1/</guid><description/><content/></item><item><title>Hashed values series: on a multichain future</title><link>/t-hashed.io/articles/article-3/</link><pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate><guid>/t-hashed.io/articles/article-3/</guid><description/><content/></item><item><title>Kitchen Lands tokenizes 35 acres of wyoming land</title><link>/t-hashed.io/articles/article-2/</link><pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate><guid>/t-hashed.io/articles/article-2/</guid><description/><content/></item><item><title>Solana vs Polkadot</title><link>/t-hashed.io/articles/article-4/</link><pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate><guid>/t-hashed.io/articles/article-4/</guid><description/><content/></item></channel></rss>
