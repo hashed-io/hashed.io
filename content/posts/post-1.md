@@ -10,5 +10,5 @@ Hashed provides products and services enabled by blockchain technology. Our plat
 
 We operate high-availability, low-latency production nodes on the world’s top networks. Our experienced team has a proven track record of repeatedly delivering best of breed outcomes.<br><br>
 
-###### Our focus areas
+###### Focus areas
 > Asset Tokenization | Crypto-native Governance | Node Operations | NFT | Identity Management | DAO | Smart Contract Audits | Digital Asset Security | Bitcoin | Document Graph
