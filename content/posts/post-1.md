@@ -3,7 +3,7 @@ title: ""
 author: "Max & Augusto"
 date: "2021-11-19"
 draft: false
-description: ""
+description: " "
 ---
 
 Hashed provides products and services enabled by blockchain technology. Our platform features high quality, well-tested building blocks that jumpstart new product development.
