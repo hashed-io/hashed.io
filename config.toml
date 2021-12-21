@@ -1,4 +1,4 @@
-baseurl = "/t-hashed.io"
+baseurl = ""
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -12,7 +12,7 @@ paginate = 5
   themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -81,23 +81,28 @@ paginate = 5
         url = "mailto:max@hashed.io"
         weight = 2
       [[languages.en.menu.main]]
+        identifier = "team"
+        name = "Team"
+        url = "/team"
+        weight = 3
+      [[languages.en.menu.main]]
         identifier = "An underrated speech"
         name = "An underrated speech"
         url = "/articles/article-1"
-        weight = 3
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "Kitchen"
         name = "Kitchen Lands tokenizes 35 acres of wyoming land"
         url = "/articles/article-2"
-        weight = 4
+        weight = 5
       [[languages.en.menu.main]]
         identifier = "Hashed"
         name = "Hashed values series: on a multichain future"
         url = "/articles/article-3"
-        weight = 5
+        weight = 6
       [[languages.en.menu.main]]
         identifier = "SolanaVsPolkadot"
         name = "Solana vs Polkadot"
         url = "/articles/article-4"
-        weight = 5
+        weight = 7
         
