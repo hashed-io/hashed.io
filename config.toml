@@ -85,24 +85,24 @@ paginate = 5
         name = "Team"
         url = "/team"
         weight = 3
-      [[languages.en.menu.main]]
-        identifier = "An underrated speech"
-        name = "An underrated speech"
-        url = "/articles/article-1"
-        weight = 4
-      [[languages.en.menu.main]]
-        identifier = "Kitchen"
-        name = "Kitchen Lands tokenizes 35 acres of wyoming land"
-        url = "/articles/article-2"
-        weight = 5
-      [[languages.en.menu.main]]
-        identifier = "Hashed"
-        name = "Hashed values series: on a multichain future"
-        url = "/articles/article-3"
-        weight = 6
-      [[languages.en.menu.main]]
-        identifier = "SolanaVsPolkadot"
-        name = "Solana vs Polkadot"
-        url = "/articles/article-4"
-        weight = 7
+      # [[languages.en.menu.main]]
+      #  identifier = "An underrated speech"
+      #  name = "An underrated speech"
+      #  url = "/articles/article-1"
+      #  weight = 4
+      # [[languages.en.menu.main]]
+      #  identifier = "Kitchen"
+      #  name = "Kitchen Lands tokenizes 35 acres of wyoming land"
+      #  url = "/articles/article-2"
+      #  weight = 5
+      # [[languages.en.menu.main]]
+      #  identifier = "Hashed"
+      #  name = "Hashed values series: on a multichain future"
+      #  url = "/articles/article-3"
+      #  weight = 6
+      # [[languages.en.menu.main]]
+      #  identifier = "SolanaVsPolkadot"
+      #  name = "Solana vs Polkadot"
+      #  url = "/articles/article-4"
+      #  weight = 7
         
