@@ -6,14 +6,14 @@ draft: false
 description: " "
 ---
 
-![Our Team](team.jpg)
+{{< p-image src="img/team/team.jpg" alt="Our team" >}}
 
-![Our Team](team-3.jpg)
+{{< p-image src="img/team/team-3.jpg" alt="Our team" >}}
 
-![Our Team](team-2.jpg)
+{{< p-image src="img/team/team-2.jpg" alt="Our team" >}}
 
-![Our Team](team-5.jpg)
+{{< p-image src="img/team/team-5.jpg" alt="Our team" >}}
 
-![Our Team](team-4.jpg)
+{{< p-image src="img/team/team-4.jpg" alt="Our team" >}}
 
-![Our Team](team-1.jpg)
+{{< p-image src="img/team/team-1.jpg" alt="Our team" >}}
