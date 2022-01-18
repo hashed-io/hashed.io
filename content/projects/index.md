@@ -1,12 +1,8 @@
 ---
-title: "Generating liquidity from illiquid assets"
+title: ""
 date: "2021-12-15"
 draft: false
 ---
-
-Using Wyoming’s new legislation recognizing digital identities, assets, and organizations, we developed a legal and technological playbook that enables LLCs to directly tokenize its assets on-chain, where they can be trustlessly traded or used as collateral.
-
-We follow this playbook ourselves for tokenizing land, and the on-chain tokens are legally-recognized as final settlement for ownership of the LLC. Contact us to get started tokenizing your assets or crowdfunding the purchase of new ones.
 
 ##### Experience
 | Project | Description |
