@@ -1,0 +1,6 @@
+{{- $src := resources.Get (.Get "src") -}}
+{{ $image := $src.Resize "2000x q75 r180" }}
+
+<p>
+  <img src="{{ $image.Permalink }}" {{ with .Get "alt" }}alt="{{.}}"{{ else }}alt=""{{ end }}>
+</p>
