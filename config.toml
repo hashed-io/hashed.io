@@ -78,7 +78,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Contact"
-        url = "mailto:max@hashed.io"
+        url = "/contact"
         weight = 2
       [[languages.en.menu.main]]
         identifier = "team"
