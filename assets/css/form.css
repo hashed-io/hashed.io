@@ -1,0 +1,35 @@
+form {
+  width: 100%;
+  height: auto;
+
+  
+}
+
+form .form-control {
+  display: flex;
+  flex-direction: column-reverse;
+  padding: 1rem 0;
+}
+
+.form-control input, .form-control textarea {
+  display: block;
+  color: var(--color);
+  background-color: var(--background);
+  border: 2px solid var(--accent);
+  padding: 10px;
+  font-size: 1rem;
+}
+
+form input[type="submit"] {
+  background-color: var(--accent);
+  color: var(--background);
+  border: 2px solid transparent;
+  padding: .5rem 1.5rem;
+  font-weight: bold;
+}
+
+form input[type="submit"]:hover {
+  background-color: var(--accent);
+  color: var(--color);
+  border-color: var(--accent);
+}
