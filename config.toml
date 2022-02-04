@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/hashed.io"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
