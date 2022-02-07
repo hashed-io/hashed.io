@@ -70,11 +70,11 @@ paginate = 5
       logoText = "Terminal"
 
     [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "Contact"
-        name = "Contact"
-        url = "#contact"
-        weight = 1
+      # [[languages.en.menu.main]]
+      #   identifier = "Contact"
+      #   name = "Contact"
+      #   url = "#contact"
+      #   weight = 1
       # [[languages.en.menu.main]]
       #   identifier = "showcase"
       #   name = "Contact"
