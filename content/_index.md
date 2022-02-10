@@ -11,14 +11,15 @@ Asset Tokenization | Crypto-native Governance | Node Operations | NFT | Identity
 # Experience
 | Project | Description |
 | ----------- | ----------- |
-| Top 10 Global Bank      | Designed and built **enterprise grade blockchain infrastructure** for managing digital assets that will be traded between world-class financial institutions       |
-| Hypha   | Multi-tenant **DAO** platform with support for flexible governance models, double-entry accounting classifications and reports. Compliant with Wyoming DAO LLC Act, DAO-to-DAO agreements, payroll, treasury, and more.  |
-| BennyFi | **DeFi** product with Premium Bond mechanics that leverage crypto yields to incentivize high return savings that don’t risk the principal.|
-| Diamond Standard | Backed 1:1 by diamond clusters, **NFTs** secured via NFC, and custom-made cabinet vaults for custodians. Enabling the trading of diamonds as a commodity.|
 | Telos Kitchen  | Pioneer **block producer** candidate on the Telos network. Focused building open-source developer utilities and re-usable application components. |
-| Proxy Financial | **On-chain applications for real estate Broker-Dealers**, including key tools for selling new products, sourcing capital, and holistically managing a public funding offering. |
-| Snyder & Kearny | Develop a **due diligence analytics platform for publicly traded real estate funds**: REITS, IF, and CEF. The proprietary algorithms use historical and Html parsed data of SEC public filings. |
+| Hypha   | **DAO** system with flexible governance. It supports assignment payouts, and adjustable percentage time commitment |
+| BennyFi | **DeFi** product with Premium Bond mechanics to incentivize high return opportunities without risking capital.|
+| Diamond Standard | Backed 1:1 by diamond clusters, **NFTs** secured via NFC, in a connected always-on cabinet vaults for custodial safes. |
+| Proxy Financial | **On-chain applications for real estate Broker-Dealers**, including sourcing capital, managing lenders, and holistically managing a public funding offering. |
+| Global Bank      | Developed smart contracts and services for regulated digital assets       |
+| Snyder & Kearny | Developed a **due diligence platform** that parses text- and html-based historical securities filings for analytics. Used primarily for publicly traded real estate funds, e.g. REITS, IF, and CEF. |
 
-##### Current Stack
+##### Current Technologies 
 
-Ethereum | Solana | Polkadot | Flow | EOSIO | Kusama | Wax
+L1:  Substrate/Polkadot | EOSIO | Bitcoin | Solana | Ethereum
+
