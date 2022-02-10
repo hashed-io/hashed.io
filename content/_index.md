@@ -6,7 +6,7 @@ We operate high-availability, low-latency production nodes on the world’s top 
 
 # Focus areas
 
-Asset Tokenization | Crypto-native Governance | Node Operations | NFT | Identity Management | DAO | Smart Contract Audits | Digital Asset Security | Bitcoin | Document Graph
+Asset Tokenization | Governance | Node Operations | NFT | Identity | DAO | Smart Contracts | Security | Bitcoin
 
 # Experience
 | Project | Description |
