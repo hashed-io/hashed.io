@@ -11,7 +11,6 @@ We operate high-availability, low-latency production nodes on the world’s top 
 Polkadot | EOSIO | Solana | Ethereum | Flow | Kusama | Wax
 
 
-
 # Experience
 
 | Area | Project |
