@@ -42,6 +42,12 @@ paginate = 5
   # it's set to `true` by default
   # oneHeadingSize = false
 
+[markup]
+    defaultMarkdownHandler = "goldmark"
+	
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params.twitter]
   # set Twitter handles for Twitter cards

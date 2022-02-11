@@ -4,22 +4,23 @@ Hashed provides products and services enabled by blockchain technology. Our plat
 
 We operate high-availability, low-latency production nodes on the world’s top networks. Our experienced team has a proven track record of repeatedly delivering best of breed outcomes.
 
-# Focus areas
+# Current Stack
 
-Asset Tokenization | Governance | Node Operations | NFT | Identity | DAO | Smart Contracts | Security | Bitcoin
+Polkadot | EOSIO | Solana | Ethereum | Flow | Kusama | Wax
 
 # Experience
-| Project | Description |
+
+| Area | Project |
 | ----------- | ----------- |
-| Telos Kitchen  | Pioneer **block producer** candidate on the Telos network. Focused building open-source developer utilities and re-usable application components. |
-| Hypha   | **DAO** system with flexible governance. It supports assignment payouts, and adjustable percentage time commitment |
-| BennyFi | **DeFi** product with Premium Bond mechanics to incentivize high return opportunities without risking capital.|
-| Diamond Standard | Backed 1:1 by diamond clusters, **NFTs** secured via NFC, in a connected always-on cabinet vaults for custodial safes. |
-| Proxy Financial | **On-chain applications for real estate Broker-Dealers**, including sourcing capital, managing lenders, and holistically managing a public funding offering. |
-| Global Bank      | Developed smart contracts and services for regulated digital assets       |
-| Snyder & Kearny | Developed a **due diligence platform** that parses text- and html-based historical securities filings for analytics. Used primarily for publicly traded real estate funds, e.g. REITS, IF, and CEF. |
+| **Enterprise**     | - Top 10 Global Bank: Inter-bank asset tokenization plattform.<br /> - S&K: Due diligence analytics platform for REITS, IF, and CEF.<br /> -  Proxy Financial: On-chain applications for RE Broker-Dealers.      |
+| **DAO**   | - Hypha: Multi-tenant platform with flexible governance models.<br />  - Double-entry accounting product with Multi Token support.<br /> - Undisclosed: Smart contract's for  WY registered DAOs|
+| **DeFi** | - BennyFi: Premium Bond mechanics for crypto yields.<br /> - Seeds: Peer-to-peer token to fiat exchange plattform.|
+| **NFT**  | - Diamond Standard: NFTs Backed by diamonds. Enabling diamonds as a commodity.|
+| **Node Operations**  | Pioneer **block producer** candidate on the Telos network. Focused building open-source developer utilities and re-usable application components.  |
 
-##### Current Technologies 
+# Focus
 
-L1:  Substrate/Polkadot | EOSIO | Bitcoin | Solana | Ethereum
+Asset Tokenization | Governance | Node Operations | NFT | Identity | DAO | Smart Contracts | Security | Bitcoin 
 
+
+# Contact
