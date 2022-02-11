@@ -1,5 +1,5 @@
 # News
-05 Jan 2022 – [Hashed Summit 2021](content/team)
+05 Jan 2022 – [Hashed Summit 2021](team)
 
 # About
 
