@@ -4,9 +4,10 @@ author: "Augusto"
 date: "2021-12-21"
 draft: false
 description: " "
+image: "img/team/team-1.jpeg" 
 ---
 
-After the long lockdown, we had our first company summit in Cancun. We wanted to get out of our houses and celebrate a year of learning and growth–hang out, talk about the plan for 2022, and have fun together. Little did we know the team activity would become a survival test.
+After the long lockdown, we had our first company summit in Cancun. We wanted to get out of our houses and celebrate a year of learning and growth. Hang out, talk about the plan for 2022, and have fun together. Little did we know the team activity would become a survival test.
 {{< p-image src="img/team/Arrival.jpeg" alt="Our team" >}}
 Everyone arrived at noon on Friday, checked into the hotel, and grabbed lunch while enjoying the sea views. After two hours of downtime, we headed to our company meeting. 
 
@@ -18,7 +19,7 @@ To get to the sea, we had to go under a bridge large enough for boats to go thro
 
 The next day we had surfing lessons and by noon everyone was on the way home. 
 {{< p-image src="img/team/team-1.jpeg" alt="Our team" >}}
-Like most, I love not having to go to the office, but there is something very special about in-person time. We are a young team (using “we” generously with me). Most of our Engineers were hired during the pandemic–a generation for whom WFH is normal. But the experience of discussing exciting news in person, going for a swim, and enjoying the sun together can’t be replaced. Paraphrasing Seneca: Good things are better with friends to share them.
+Like most, I love not having to go to the office, but there is something very special about in-person time. We are a young team (using “we” generously with me). Most of our Engineers were hired during the pandemic. A generation for whom WFH is normal. But the experience of discussing exciting news in person, going for a swim, and enjoying the sun together can’t be replaced. Paraphrasing Seneca: Good things are better with friends to share them.
 
 
 
