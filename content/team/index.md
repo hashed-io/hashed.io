@@ -19,7 +19,7 @@ To get to the sea, we had to go under a bridge large enough for boats to go thro
 
 The next day we had surfing lessons and by noon everyone was on the way home. 
 {{< p-image src="img/team/team-1.jpeg" alt="Our team" >}}
-Like most, I love not having to go to the office, but there is something very special about in-person time. We are a young team (using “we” generously with me). Most of our Engineers were hired during the pandemic. A generation for whom WFH is normal. But the experience of discussing exciting news in person, going for a swim, and enjoying the sun together can’t be replaced. Paraphrasing Seneca: Good things are better with friends to share them.
+Like most, I love not having to go to the office, but there is something very special about in-person time. We are a young team (using “we” generously with me). Most of our Engineers were hired during the pandemic. A generation for whom WFH is normal. But the experience of discussing exciting news in person, going for a swim, and enjoying the sun together can’t be replaced. Good things are better with friends to share them.
 
 
 
