@@ -60,7 +60,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Hashed"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Hashed - Blockchain development"
     owner = ""
     keywords = ""
     copyright = "© 2022 Hashed"
