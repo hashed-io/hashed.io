@@ -17,11 +17,11 @@ The next day we had our team activity: a paddleboard loop from Cancun’s Nichup
 To get to the sea, we had to go under a bridge large enough for boats to go through. This is when the weather started to change and, in an instant, we were paddling under heavy rain with the wind against us. This meant we had to frantically paddle on only one side to avoid being pushed over by the wind. The situation felt dangerous and our WFH bodies were in pain. The thought “If I die, no one knows about my tokens” crossed our minds. With renewed determination, we made it. We were sore, wet, and cold, but happy.
 
 The next day we had surfing lessons and by noon everyone was on the way home. 
-
+{{< p-image src="img/team/team-1.jpeg" alt="Our team" >}}
 Like most, I love not having to go to the office, but there is something very special about in-person time. We are a young team (using “we” generously with me). Most of our Engineers were hired during the pandemic–a generation for whom WFH is normal. But the experience of discussing exciting news in person, going for a swim, and enjoying the sun together can’t be replaced. Paraphrasing Seneca: Good things are better with friends to share them.
 
 
-{{< p-image src="img/team/team-1.jpeg" alt="Our team" >}}
+
 <!---
 {{< p-image src="img/team/team-5.jpg" alt="Our team" >}}
 
