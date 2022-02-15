@@ -3,7 +3,7 @@ title: "Hashed Summit 2021"
 author: "Augusto"
 date: "2021-12-21"
 draft: false
-thumbnail: "img/team/Arrival.jpg"
+thumbnail: "img/team/Arrival.jpeg"
 description: "After the long lockdown, we had our first company summit in Cancun. We wanted to get out of our houses and celebrate a year of learning and growth. Hang out, talk about the plan for 2022, and have fun together. Little did we know the team activity would become a survival test."
 ---
 
