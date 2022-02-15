@@ -61,7 +61,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Hashed"
-    subtitle = "Hashed - Hashed provides products and services enabled by blockchain technology. Our platform features high quality, well-tested building blocks that jumpstart new product development."
+    subtitle = "We provide products and services enabled by blockchain technology. Our platform features high quality, well-tested building blocks that jumpstart new product development."
     owner = ""
     keywords = ""
     copyright = "© 2022 Hashed"
