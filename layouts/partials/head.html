@@ -48,11 +48,9 @@
   {{- $image := resources.Get .Params.thumbnail -}}
   <meta property="og:image" content="{{ ($image.Fill "500x500 q75 Center").RelPermalink }}">
 {{ else }}
-  {{ if isset $.Site.Params "favicon" }}
-    <meta name="twitter:image" content="{{ $.Site.Params.favicon | absURL }}" />
-    <meta property="og:image" content="{{ $.Site.Params.favicon | absURL }}">
-  {{ else }}
-    <meta property="og:image" content="{{ printf "img/favicon/%s.png" $.Site.Params.ThemeColor | absURL }}">
+  {{ if isset $.Site.Params "pageImage" }}
+    <meta name="twitter:image" content="{{ $.Site.Params.pageImage | absURL }}" />
+    <meta property="og:image" content="{{ $.Site.Params.pageImage | absURL }}">
   {{ end }}
 {{ end }}
 
