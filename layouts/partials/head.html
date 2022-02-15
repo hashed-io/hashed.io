@@ -48,9 +48,9 @@
   {{- $image := resources.Get .Params.thumbnail -}}
   <meta property="og:image" content="{{ ($image.Fill "500x500 q75 Center").RelPermalink }}">
 {{ else }}
-  {{ if isset $.Site.Params "pageImage" }}
-    <meta name="twitter:image" content="{{ $.Site.Params.pageImage | absURL }}" />
-    <meta property="og:image" content="{{ $.Site.Params.pageImage | absURL }}">
+  {{ if isset $.Site.Params "thumbnail" }}
+    <meta name="twitter:image" content="{{ $.Site.Params.thumbnail | absURL }}" />
+    <meta property="og:image" content="{{ $.Site.Params.thumbnail | absURL }}">
   {{ end }}
 {{ end }}
 

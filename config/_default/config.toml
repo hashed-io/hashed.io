@@ -34,7 +34,7 @@ paginate = 5
 
   # set a custom favicon (default is a `themeColor` square)
   favicon = "favicon.ico"
-  pageImage = "images/hashed_logo_full-1.png"
+  thumbnail = "images/hashed_logo_full-1.png"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
