@@ -55,14 +55,14 @@
   {{ end }}
 {{ end }}
 
-<meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:card" content="summary" />
+<meta property="og:title" content="{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }}{{ end }}" />
 <meta property="twitter:description" content="{{ if .IsHome }}{{ $.Site.Params.Subtitle }}{{ else if .Description}}{{ .Description | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
 
 {{ if and (not .IsHome) (isset .Params "thumbnail") }}
   {{- $image := resources.Get .Params.thumbnail -}}
   <meta name="thumbnail" content="{{ ($image.Fill "500x500 q75 Center").RelPermalink | absURL }}" />
-  <meta name="twitter:image" content="content="{{ ($image.Fill "500x500 q75 Center").RelPermalink }}"
+  <meta name="twitter:image" content="{{ ($image.Fill "500x500 q75 Center").RelPermalink }}" />
 {{ end }}
 
 <meta property="og:image:width" content="2048">
