@@ -49,13 +49,14 @@
   <meta property="og:image" content="{{ ($image.Fill "500x500 q75 Center").RelPermalink }}">
 {{ else }}
   {{ if isset $.Site.Params "favicon" }}
+    <meta name="twitter:image" content="{{ ($image.Fill "500x500 q75 Center").RelPermalink }}" />
     <meta property="og:image" content="{{ $.Site.Params.favicon | absURL }}">
   {{ else }}
     <meta property="og:image" content="{{ printf "img/favicon/%s.png" $.Site.Params.ThemeColor | absURL }}">
   {{ end }}
 {{ end }}
 
-<meta name="twitter:card" content="summary" />
+<meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }}{{ end }}" />
 <meta name="twitter:description" content="{{ if .IsHome }}{{ $.Site.Params.Subtitle }}{{ else if .Description}}{{ .Description | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
 
