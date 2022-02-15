@@ -56,7 +56,7 @@
 
 {{ if and (not .IsHome) (isset .Params "thumbnail") }}
   {{- $image := resources.Get .Params.thumbnail -}}
-  <meta name="thumbnail" content="{{ ($image.Fill "200x200 q75 Center").RelPermalink }}" />
+  <meta name="thumbnail" content="{{ ($image.Fill "200x200 q75 Center").RelPermalink | absURL }}" />
 {{ end }}
 
 
