@@ -34,7 +34,7 @@ paginate = 5
 
   # set a custom favicon (default is a `themeColor` square)
   favicon = "favicon.ico"
-  thumbnail = "images/hashed_logo_full-1.png"
+  thumbnail = "images/hashed_logo_black.jpg"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -61,7 +61,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Hashed"
-    subtitle = "Hashed - Blockchain development"
+    subtitle = "Hashed - Hashed provides products and services enabled by blockchain technology. Our platform features high quality, well-tested building blocks that jumpstart new product development."
     owner = ""
     keywords = ""
     copyright = "© 2022 Hashed"
