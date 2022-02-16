@@ -46,12 +46,12 @@
 <meta property="og:site_name" content="{{ $.Site.Title }}" />
 {{ if and (not .IsHome) (isset .Params "thumbnail") }}
   {{- $image := resources.Get .Params.thumbnail -}}
-  <meta property="og:image" content="{{ ($image.Resize "250x q75 Center").RelPermalink }}">
+  <meta property="og:image" content="{{ ($image.Resize "250x q100 Center").RelPermalink }}">
 {{ else }}
   {{ if isset $.Site.Params "thumbnail" }}
     {{- $image := resources.Get $.Site.Params.thumbnail -}}
-    <meta name="twitter:image" content="{{ ($image.Resize "250x q75 Center").RelPermalink }}" />
-    <meta property="og:image" content="{{ ($image.Resize "250x q75 Center").RelPermalink }}">
+    <meta name="twitter:image" content="{{ ($image.Resize "250x q100 Center").RelPermalink }}" />
+    <meta property="og:image" content="{{ ($image.Resize "250x q100 Center").RelPermalink }}">
   {{ end }}
 {{ end }}
 
@@ -62,8 +62,8 @@
 
 {{ if and (not .IsHome) (isset .Params "thumbnail") }}
   {{- $image := resources.Get .Params.thumbnail -}}
-  <meta name="thumbnail" content="{{ ($image.Fill "250x q75 Center").RelPermalink | absURL }}" />
-  <meta name="twitter:image" content="{{ ($image.Fill "250x q75 Center").RelPermalink }}" />
+  <meta name="thumbnail" content="{{ ($image.Fill "250x q100 Center").RelPermalink | absURL }}" />
+  <meta name="twitter:image" content="{{ ($image.Fill "250x q100 Center").RelPermalink }}" />
 {{ end }}
 
 <meta property="og:image:width" content="2048">
