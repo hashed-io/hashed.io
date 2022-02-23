@@ -1,0 +1,8 @@
+<div class="grid">
+  {{ range .Params }}
+    <figure>
+      <img src="{{ . }}" alt="">
+      <figcaption><a download href="{{ . }}">Click to Download</a></figcaption>
+    </figure>
+  {{ end }}
+</div>
