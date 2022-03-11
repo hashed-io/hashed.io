@@ -45,7 +45,7 @@
 <meta property="og:site_name" content="{{ $.Site.Title }}" />
 {{ if and (not .IsHome) (isset .Params "thumbnail") }}
   {{- $image := resources.Get .Params.thumbnail -}}
-  <meta property="og:image" content="{{ ($image.Resize "350x q100 Center").RelPermalink }}">
+  <meta property="og:image" content="{{ ($image.Resize "350x q100 Center").RelPermalink | absURL }}">
 {{ else }}
   {{ if isset $.Site.Params "thumbnail" }}
     {{- $image := resources.Get $.Site.Params.thumbnail -}}
@@ -60,13 +60,13 @@
 
 {{ if and (not .IsHome) (isset .Params "thumbnail") }}
   {{- $image := resources.Get .Params.thumbnail -}}
-  <meta name="thumbnail" content="{{ ($image.Resize "350x q100 Center").RelPermalink }}" />
+  <meta name="thumbnail" content="{{ ($image.Resize "350x q100 Center").RelPermalink | absURL }}" />
   <meta name="twitter:image" content="{{ ($image.Resize "350x q100 Center").RelPermalink | absURL }}" />
 {{ end }}
 <meta name="twitter:card" content="summary_large_image" />
 
-<meta property="og:image:width" content="2048">
-<meta property="og:image:height" content="1024">
+<meta property="og:image:width" content="350">
+<meta property="og:image:height" content="142">
 {{ range .Params.categories }}
   <meta property="article:section" content="{{ . }}" />
 {{ end }}
