@@ -1,4 +1,10 @@
 # News
+22 Nov 2021 - [Digitalness - Part 1 - An Underrated Speech](articles/digitalness-part-1)
+
+22 Nov 2021 - [Digitalness - Part 2 - Digitalness Primer](articles/digitalness-part-2)
+
+22 Nov 2021 - [Digitalness - Part 3 - Kitchen Lands DAO LLC buys 35 acres in Wyoming](articles/digitalness-part-3)
+
 02 Feb 2022  - [Launch of Hashed Chain Chaos network](hashed-chain)
 
 30 Jan 2022  -  [Document Graph Explorer opens Public BETA on Telos](dge)
@@ -12,7 +18,7 @@ Hashed provides products and services enabled by blockchain technology. Our plat
 We operate high-availability, low-latency production nodes on the world’s top networks. Our experienced team has a proven track record of repeatedly delivering best of breed outcomes.
 # Current Stack
 
-Polkadot | EOSIO | Solana | Ethereum | Flow | Kusama | Wax
+Polkadot/Substrate | Bitcoin | EOSIO | Ethereum 
 
 
 # Experience
