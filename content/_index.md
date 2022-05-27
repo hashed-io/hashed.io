@@ -7,7 +7,7 @@
 
 # News
 
-27 May 2022 - [Overview of Hashed Chain](https://youtu.be/2vWnCj8vxXc)
+27 May 2022 - [Overview of Hashed Network](https://youtu.be/2vWnCj8vxXc)
 
 02 Feb 2022  - [Launch of Hashed Chain Chaos network](hashed-chain)
 
