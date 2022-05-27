@@ -1,5 +1,5 @@
 ---
-title: "Digitalness: Part 2 of 3"
+title: "Digitalness: Part 2 of 3: Digitalness Primer"
 date: 2021-11-22T10:36:33-06:00
 draft: false
 authors: Max Gravitt and Sam Newbold

@@ -1,9 +1,9 @@
 # News
-22 Nov 2021 - [Digitalness - Part 1 - An Underrated Speech](articles/digitalness-part-1)
+22 Nov 2021 - [Digitalness - Part 1 - An Underrated Speech](/digitalness-1)
 
-22 Nov 2021 - [Digitalness - Part 2 - Digitalness Primer](articles/digitalness-part-2)
+22 Nov 2021 - [Digitalness - Part 2 - Digitalness Primer](digitalness-2)
 
-22 Nov 2021 - [Digitalness - Part 3 - Kitchen Lands DAO LLC buys 35 acres in Wyoming](articles/digitalness-part-3)
+22 Nov 2021 - [Digitalness - Part 3 - Kitchen Lands DAO LLC buys 35 acres in Wyoming](digitalness-3)
 
 02 Feb 2022  - [Launch of Hashed Chain Chaos network](hashed-chain)
 

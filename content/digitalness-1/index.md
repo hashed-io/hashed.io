@@ -1,5 +1,5 @@
 ---
-title: Digitalness Part 1
+title: Digitalness Part 1: An Underrated Speech
 date : 2021-Dec-17
 author : Max Gravitt
 ---
