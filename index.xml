@@ -21,7 +21,170 @@ Like most, I love not having to go to the office, but there is something very sp
 &lt;p>
 &lt;img src="https://hashed.io/img/team/team-4_hu5ead2b3b447e14f635a1c254128ae7f8_1031943_2000x0_resize_q75_box.jpg" alt="Our team">
 &lt;/p>
----></content></item><item><title/><link>https://hashed.io/assets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hashed.io/assets/</guid><description>Assets Logos Click to Download Click to Download Png Click to Download Click to Download Click to Download Click to Download Click to Download Avatar Click to Download Click to Download Click to Download Symbol Click to Download Click to Download Click to Download Click to Download Halftone Click to Download Click to Download Click to Download Click to Download Click to Download Click to Download</description><content>&lt;h1 id="assets">Assets&lt;/h1>
+---></content></item><item><title>Digitalness: Part 2 of 3</title><link>https://hashed.io/digitalness-2/</link><pubDate>Mon, 22 Nov 2021 10:36:33 -0600</pubDate><guid>https://hashed.io/digitalness-2/</guid><description>Digitalness Primer Authors: Max Gravitt and Sam Newbold
+digitalness [ dij-i-tl-nis ] Noun. The recognition that a series of electrical or magnetic signals may have the same rights as the natural entities or objects they represent. The legal industry has recognized forms of manifested intent in a variety of ways. Think of corporate proxies, surrogacies, trusts and wills. Digitalness is just another way, another mechanism to capture the intent of a person.</description><content>&lt;h2 id="digitalness-primer">Digitalness Primer&lt;/h2>
+&lt;p>Authors: &lt;a href="https://github.com/3yekn">Max Gravitt&lt;/a> and &lt;a href="https://www.csglaw.com/index_y.cfm?t=3&amp;amp;A=19042&amp;amp;format=xml&amp;amp;p=16431&amp;amp;stylesheet=AttorneyBio_New">Sam Newbold&lt;/a>&lt;/p>
+&lt;pre>&lt;code>digitalness [ dij-i-tl-nis ]
+Noun. The recognition that a series of electrical or magnetic signals may have the same rights as the natural entities or objects they represent.
+&lt;/code>&lt;/pre>&lt;p>The legal industry has recognized forms of manifested intent in a variety of ways. Think of corporate proxies, surrogacies, trusts and wills. Digitalness is just another way, another mechanism to capture the intent of a person. Like a shareholder proxy casting a vote on a shareholder’s behalf, or a will that outlines how property is to be disposed of, digitalness functions the same way.&lt;/p>
+&lt;h2 id="identity">Identity&lt;/h2>
+&lt;p>The first building block of digitalness is Identity. In their &lt;a href="https://www.wyoleg.gov/2021/Introduced/SF0039.pdf">Digital Identity Act&lt;/a>, the state of Wyoming defines digital identity in both a personal and organizational context. In both, the identity is the &lt;strong>“intangible digital representation of, by and for [the entity], over which [the entity] intentionally communicates or acts.”&lt;/strong> The types of parties included with this scope are natural persons and legal or commercial entities.&lt;/p>
+&lt;p>The act simply states that &lt;strong>“acts taken through a digital identity are attributable to the [entity] if they were taken by the entity.”&lt;/strong> This is an easy concept to understand in the non-digital, or traditional legal world we all commonly use.&lt;/p>
+&lt;h2 id="authenticity">Authenticity&lt;/h2>
+&lt;p>Perhaps the more challenging concept to grasp with digitalness is authenticity, i.e. how do users of digitalness ensure that software programs used to promulgate real human intent do so accurately? This is achieved with blockchain. The Wyoming Digital Identity Act does not impose an explicit requirement for a blockchain, wallet, or cryptography. There is a mention of &lt;strong>“showing the efficacy of a security procedure”&lt;/strong>, but the breadth of allowed mechanisms seems to be purposeful to transcend various forms of key custody and ensure the Act is future proof.&lt;/p>
+&lt;p>Digital Identity, as simple as it sounds, connects the dots between private keys, blockchain accounts, and the actions (state changes) that they perform on the shared data set.&lt;/p>
+&lt;h2 id="assets">Assets&lt;/h2>
+&lt;p>With the Digital Asset Act, Wyoming was the first state to define that digital asset &lt;strong>“means a representation of economic, proprietary or access rights that is stored in a computer readable format and is either a digital consumer asset, digital security or virtual currency.”&lt;/strong>&lt;/p>
+&lt;p>This act mostly clarifies custodial regulations and practices for banks, respecting the reality that tokens or coins are in fact assets is a key component of digitalness.&lt;/p>
+&lt;p>To summarize so far, on-chain actions taken by specific keys or accounts are the actual actions of the actors, and the on-chain state (e.g. token balances) and state changes (e.g. transfers) may involve actual assets. Pretty simple.&lt;/p>
+&lt;h2 id="decentralized-autonomous-organizations-dao-bill">Decentralized Autonomous Organizations (DAO) Bill&lt;/h2>
+&lt;p>Wyoming was the first State in the United States to introduce the Limited Liability Company (LLC) by &lt;a href="https://www.wyomingllcs.com/history-of-the-llc/">passing legislation in 1977&lt;/a>. An LLC is a business structure that limits any owners' personal responsibility for the company’s debts or liabilities. The LLC has been wildly popular for decades as an alternative to corporations, partnerships, and sole proprietorships because of the protective shield and favorable tax treatment by state and federal government.&lt;/p>
+&lt;p>The &lt;a href="https://www.wyoleg.gov/2021/Introduced/SF0038.pdf">DAO Bill&lt;/a> is a supplement to the original Wyoming Limited Liability Company Act. It states that all of the provisions of LLCs apply to DAOs, and specifies the information required to establish a DAO in the state. Think of it as akin to non-profits or s-corps that are formed as corporations under the corporate laws of states but are treated differently based on certain operational and governance elections made at the time of formation and special tax filings made by the owner.&lt;/p>
+&lt;h3 id="requirements">Requirements&lt;/h3>
+&lt;p>LLCs are suggested to have two documents:&lt;/p>
+&lt;ol>
+&lt;li>Articles of Organization&lt;/li>
+&lt;li>Operating Agreement&lt;/li>
+&lt;/ol>
+&lt;p>A DAO&amp;rsquo;s Articles of Organization (founding document) must have a statement that the company is a decentralized autonomous organization. This is similar to how corporations who wish to be treated as non-profit corporations must have a statement in the charter that the entity will operate as a non-profit.&lt;/p>
+&lt;p>The LLC’s Articles of Organization for DAOs must have the following text:&lt;/p>
+&lt;pre>&lt;code>NOTICE OF RESTRICTIONS ON DUTIES AND TRANSFERS
+The rights of members in a decentralized autonomous organization may differ materially from the rights of members in other limited liability companies. The Wyoming Decentralized Autonomous Organization Supplement, underlying smart contracts, articles of organization and operating agreement, if applicable, of a decentralized autonomous organization may define, reduce or eliminate fiduciary duties and may restrict transfer of ownership interests, withdrawal or resignation from the decentralized autonomous organization, return of capital contributions and dissolution of the decentralized autonomous organization.
+&lt;/code>&lt;/pre>&lt;p>The registered name of the LLC must contain “DAO”, “LAO”, or “DAO LLC”.&lt;/p>
+&lt;p>The articles of organization shall include a publicly available identifier of any smart contract directly used to manage, facilitate or operate the decentralized autonomous organization.&lt;/p>
+&lt;h2 id="smart-contract-requirements">Smart Contract Requirements&lt;/h2>
+&lt;p>The above items all pertain to content or information that must be in the registration. The Act also defines what decisions and duties the smart contract must govern. In the below sections, the numbered &lt;code>requirements&lt;/code> are quoted from the legislation, and the &lt;code>implementation&lt;/code> that follows is a description of how we have addressed it.&lt;/p>
+&lt;hr>
+&lt;p>&lt;code>Req 1&lt;/code> Relations among the members and between the members and the decentralized autonomous organization&lt;/p>
+&lt;p>&lt;code>Impl 1&lt;/code> The word “relations” seems a bit strange here, but there are no relations among the members besides what is defined in the smart contract. The contract’s action signatures (e.g. for creating proposals) are public and clear.&lt;/p>
+&lt;hr>
+&lt;p>&lt;code>Req 2&lt;/code> Rights and duties under this chapter of a person in their capacity as a member&lt;/p>
+&lt;p>&lt;code>Impl 2&lt;/code> Members have a right to make proposals and vote on proposals. They also have the right to transfer their membership interests at any time, unless otherwise proposed and managed via an upgrade to the base contract (for activities such as staking).&lt;/p>
+&lt;hr>
+&lt;p>&lt;code>Req 3&lt;/code> Activities of the decentralized autonomous organization and the conduct of those activities&lt;/p>
+&lt;p>&lt;code>Impl 3&lt;/code> The DAO may elect, via a vote or proposal, to hire third parties or agents to conduct off-chain activities, such as paying taxes or fees. These parties or agents may or may not be members of the DAO.&lt;/p>
+&lt;hr>
+&lt;p>&lt;code>Req 4&lt;/code> Means and conditions for amending the operating agreement&lt;/p>
+&lt;p>&lt;code>Impl 4&lt;/code> The operating agreement is maintained wholly on-chain. It can only be updated via a vote from members.&lt;/p>
+&lt;hr>
+&lt;p>&lt;code>Req 5&lt;/code> Rights and voting rights of members&lt;/p>
+&lt;p>&lt;code>Impl 5&lt;/code> Membership interests are measured and maintained via a standard token contract, where the DAO itself is the issuer.&lt;/p>
+&lt;p>This token is a unit of account.&lt;/p>
+&lt;p>Voting power is equivalent to membership interest. Both are calculated as the number of tokens owned by the voter divided by the total supply of that token.&lt;/p>
+&lt;hr>
+&lt;p>&lt;code>Req 6&lt;/code> Transferability of membership interests&lt;/p>
+&lt;p>&lt;code>Impl 6&lt;/code> Transferability is instant and final based on transfer of the DAO’s token.&lt;/p>
+&lt;hr>
+&lt;p>&lt;code>Req 7&lt;/code> Withdrawal of membership&lt;/p>
+&lt;p>&lt;code>Impl 7&lt;/code> A member may withdraw by transferring their membership interests to the DAO’s smart contract.&lt;/p>
+&lt;hr>
+&lt;p>&lt;code>Req 8&lt;/code> Distributions to members prior to dissolution&lt;/p>
+&lt;p>&lt;code>Impl 8&lt;/code> Members are entitled to a share of all assets owned by the DAO, proportional to their membership interests in the DAO.&lt;/p>
+&lt;hr>
+&lt;p>&lt;code>Req 9&lt;/code> Amendment of the articles of organization&lt;/p>
+&lt;p>&lt;code>Impl 9&lt;/code> The operating agreement is maintained wholly on-chain. It can only be updated from a vote from members.&lt;/p>
+&lt;hr>
+&lt;p>&lt;code>Req 10&lt;/code> Procedures for amending, updating, editing or changing applicable smart contracts&lt;/p>
+&lt;p>&lt;code>Impl 10&lt;/code> The operating agreement is maintained wholly on-chain. It can only be updated from a vote from members.&lt;/p>
+&lt;hr>
+&lt;p>&lt;code>Req 11&lt;/code> All other aspects of the decentralized autonomous organization&lt;/p>
+&lt;p>&lt;code>Impl 11&lt;/code> From time to time, there may be off-chain activities required by the DAO, such as placing an offer on a property or paying property taxes.&lt;/p>
+&lt;hr>
+&lt;p>These are handled via an elected agent of the DAO, who may or may not be a member.&lt;/p>
+&lt;h3 id="code-is-law">Code is Law&lt;/h3>
+&lt;p>One of the Act’s most &lt;strong>&lt;em>consequential and empowering&lt;/em>&lt;/strong> aspect is found in the &lt;strong>Miscellaneous&lt;/strong> section:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Where the underlying articles of organization and operating agreement are in conflict, the articles of organization shall preempt any conflicting provisions. Where the underlying articles of organization and smart contract are in conflict, the smart contract shall preempt any conflicting provisions of the articles of organization.&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>This establishes a hierarchy of power or precedence among the core documents of a DAO LLC. The Articles of Organization trump the Operating Agreement, and the Smart Contract trumps the Articles of Organization.&lt;/p>
+&lt;p>&lt;code>Smart Contract &amp;gt; Articles of Organization &amp;gt; Operating Agreement&lt;/code>&lt;/p>
+&lt;p>&amp;mdash;-&lt;em>The smart contract is the most powerful of all&lt;/em>&amp;mdash;&amp;mdash; &lt;strong>CODE IS LAW&lt;/strong>&lt;/p>
+&lt;p>This clause clarifies that the on-chain smart contract is the highest, most trusted source of information.&lt;/p>
+&lt;p>This clarification empowers the machine code above all else, which is a critical factor in allowing digitalness to thrive.&lt;/p>
+&lt;p>This makes sense in a classic legal manner because the smart contract is the best proxy, or best clue for understanding the intent of the parties. It is an explicit understanding that forcing smart contract machine code to comply with paper documents or written words unravels its value proposition. If it were even cryptographically possible, the ability for a government judicial body to overrule the machine code would create an existential vulnerability for any DAO.&lt;/p>
+&lt;p>In other words, the on-chain records represent &lt;strong>instant and final settlement of state-protected property rights.&lt;/strong>&lt;/p>
+&lt;h2 id="future-of-digitalness">Future of Digitalness&lt;/h2>
+&lt;p>Wyoming’s legislation on Digital Identity, Assets, and Organizations are a substantial enabler of innovation in our space. It establishes the start of a framework for how people, businesses, and property may be handled on blockchain networks.&lt;/p>
+&lt;p>Our mission is to continue to push the boundaries of open innovation by developing products that accelerate adoption of digitalness around the world.&lt;/p>
+&lt;hr>
+&lt;p>Read &lt;a href="https://hashed.io/digitalness-1">Digitalness: Part 1 of 3 - An Underrated Speech&lt;/a>&lt;/p>
+&lt;p>Read &lt;a href="https://hashed.io/digitalness-3">Digitalness: Part 3 of 3 - Step by Step DAO Proof of Concept&lt;/a>&lt;/p></content></item><item><title>Digitalness: Part 3 of 3</title><link>https://hashed.io/digitalness-3/</link><pubDate>Mon, 22 Nov 2021 10:36:33 -0600</pubDate><guid>https://hashed.io/digitalness-3/</guid><description>Kitchen Lands DAO LLC buys 35 acres in Wyoming Author: Max Gravitt
+In the prior article, we shared the breakdown of our understanding of Wyoming&amp;rsquo;s new Digitalness legislation.
+I&amp;rsquo;m excited to share that we have implemented them in a real-world proof of concept. We created a new business: Kitchen Lands DAO LLC, and that DAO purchased 35 beautiful acres outside of Laramie, Wyoming.
+We took a methodical approach to the activities described below.</description><content>&lt;h2 id="kitchen-lands-dao-llc-buys-35-acres-in-wyoming">Kitchen Lands DAO LLC buys 35 acres in Wyoming&lt;/h2>
+&lt;p>Author: &lt;a href="https://github.com/3yekn">Max Gravitt&lt;/a>&lt;/p>
+&lt;p>In the prior article, we shared the breakdown of our understanding of &lt;a href="https://hashed.io/digitalness-2/">Wyoming&amp;rsquo;s new Digitalness legislation&lt;/a>.&lt;/p>
+&lt;p>I&amp;rsquo;m excited to share that we have implemented them in a real-world proof of concept. We created a new business: &lt;strong>Kitchen Lands DAO LLC&lt;/strong>, and that DAO purchased 35 beautiful acres outside of Laramie, Wyoming.&lt;/p>
+&lt;p>We took a methodical approach to the activities described below. Our goal to ensure that the DAO was decentralized and transparent from genesis. This article explains the play-by-play.&lt;/p>
+&lt;h4 id="step-1-genesis-member-key-ceremony">Step 1. Genesis member key ceremony&lt;/h4>
+&lt;p>Every DAO starts as an idea, usually from a single person, before it is born. This single person usually recruits additional founding members. Although not required, we held a key ceremony with the founding members.&lt;/p>
+&lt;p>Another common genesis event is likely a crowdfunding contract, where contributions codify the members and genesis tokenization.&lt;/p>
+&lt;h4 id="step-2-create-an-account">Step 2. Create an account&lt;/h4>
+&lt;p>The &lt;a href="https://eosauthority.com/account/landdao.tk?network=telos#keys">blockchain account&lt;/a> was created and configured for multisignature based on the founding members.&lt;/p>
+&lt;p>This may also be achieved using the fully sovereign, direct democracy permission from the start, meaning the only permission on the blockchain account would be the &lt;code>landdao.tk@eosio.code&lt;/code> permission. Since the number of genesis members was small, we elected for multisignature for simplicity.&lt;/p>
+&lt;h4 id="step-3-deploy-contract">Step 3. Deploy contract&lt;/h4>
+&lt;p>We use a &lt;a href="https://hashed-io.github.io/document-graph-book/">document-graph smart contract&lt;/a> to serve as a flexible and powerful store for DAO information. This allows us to store any arbitrary key value pairs, DAO policies, documentation, files, images, videos, and so on in a format that is easy to access and update via governance rules.&lt;/p>
+&lt;h4 id="step-4-register-the-dao-llc">Step 4. Register the DAO LLC&lt;/h4>
+&lt;p>The DAO LLC must be registered by an organizer, who may or may not be a member of the DAO. The organizer of Kitchen Lands DAO LLC was Telos Kitchen DAO LLC, a block producer on Telos.&lt;/p>
+&lt;p>As mentioned in our prior article, there is a set of information required specifically for DAO LLCs. Here is our Additional Article with this information.&lt;/p>
+&lt;pre>&lt;code>Kitchen Lands DAO LLC is a decentralized autonomous organization.
+The smart contract is deployed to the Telos blockchain.
+Telos Website: https://telos.net
+ChainID: 4667b205c6838ef70ff7988f6e8257e8be0e1284a2f59699054a018f743b1d11
+Smart Contract (operating agreement) Deployment: landdao.tk
+Smart Contract web-link: https://telos.bloks.io/account/landdao.tk
+Source code repo: https://github.com/teloskitchen/land-dao
+Restrictions on Duties and Transfers appears in the smart contract operating agreement
+&lt;/code>&lt;/pre>&lt;p>At this point, our LLC is registered and has been filed with the Wyoming Secretary of State. The document is publicly available online and has a section indicated that it has been filed.&lt;/p>
+&lt;p>It also includes a Certificate of Organization signed by the Secretary of State of Wyoming.
+&lt;img src="registration-annotated.png" alt="">&lt;/p>
+&lt;h4 id="step-5-enable-memberships">Step 5. Enable Memberships&lt;/h4>
+&lt;p>The Act requires that the public smart contract identifier be referenced in the Articles of Organization, and some members may not want to join a DAO that doesn’t have the proper LLC registration. This is why we adhere to the sequence of: a) create the account, b) deploy the contract, c) register the DAO LLC, and then d) allow members to join.&lt;/p>
+&lt;p>Members joined Kitchen Lands DAO LLC by sending TLOS tokens to the &lt;code>landdao.tk&lt;/code> contract. (enrollment is closed; do not send any tokens)&lt;/p>
+&lt;p>You can &lt;a href="https://eosauthority.com/transaction/4199fcbab0c8a932b52057c534b140df0f66a295e1d6cb9a7dce9692e5492d74?network=telos#">view the transaction on the block explorer&lt;/a>&lt;/p>
+&lt;h4 id="step-6-distribute-initial-dao-tokens">Step 6. Distribute initial DAO tokens&lt;/h4>
+&lt;p>Kitchen Lands DAO LLC elected to create a distribute token with the following configuration:&lt;/p>
+&lt;p>Symbol: &lt;code>LAND&lt;/code>&lt;/p>
+&lt;p>Precision: 0 (no decimal places)&lt;/p>
+&lt;p>Maximum Quantity: 100&lt;/p>
+&lt;p>This means each &lt;code>LAND&lt;/code> token is equivalent to 1% of the DAO and the smallest fractional ownership of the DAO is 1%,&lt;/p>
+&lt;p>At this point, the DAO received contributions of &lt;code>50,000.0000 TLOS&lt;/code> from three members, in proportions of 45%, 45%, and 10%.&lt;/p>
+&lt;h4 id="step-7-go-shopping">Step 7. Go Shopping!&lt;/h4>
+&lt;p>After much research, the DAO members decided on a 35 acre property just northwest of Laramie in the Laramie River Ranch community.&lt;/p>
+&lt;p>&lt;img src="property-cover-image.jpg" alt="">
+&lt;a href="https://horizonlandsales.com/property/laramie-river-ranch-lot-45-35-84-acres/">See full property details&lt;/a>&lt;/p>
+&lt;p>To avoid the slowness and hassle of fiat, we made our offer in Bitcoin and the seller was happy to accept it.&lt;/p>
+&lt;p>We made an offer at the list price with the conversion rate of USD to Bitcoin to be made at the time of the transactions. Of course, the buyer is Kitchen Lands DAO LLC.&lt;/p>
+&lt;p>&lt;img src="purchase-agreement.png" alt="">&lt;/p>
+&lt;h4 id="step-8-title-insurance">Step 8. Title Insurance&lt;/h4>
+&lt;p>Title insurance is an optional step, but generally regarded as a best practice when purchasing real estate. The hired insurance company investigates the property to make sure that there are no outstanding liens, judgments, or back taxes. If it later becomes evident that there were some judgments or liens against the property, the insurance company will guarantee or fix it up to the purchase amount.&lt;/p>
+&lt;p>Kitchen Lands DAO LLC is the insurance policy holder, as seen in the below policy snippet.&lt;/p>
+&lt;p>&lt;img src="title-insurance.png" alt="">&lt;/p>
+&lt;h4 id="step-9-settlement">Step 9. Settlement&lt;/h4>
+&lt;p>At this point, the funds can be transferred to the seller and the property deeded to the DAO. Many real estate transactions involve the use of an escrow agent. The price of bitcoin escrow services is very high (10% of the escrow amount). Because of this cost, along with the relationship we had established with the seller and the size of the transaction, the DAO voted and elected not to use an escrow agent.&lt;/p>
+&lt;p>So, two events occurred simultaneously:
+The seller signed, had notarized, and emailed the Deed that grants the property to Kitchen Lands DAO LLC.
+&lt;img src="deed.png" alt="">&lt;/p>
+&lt;p>Kitchen Lands DAO LLC sent the Bitcoin to the seller.
+&lt;img src="btc-trx-electrum.png" alt="">&lt;/p>
+&lt;p>&lt;a href="https://www.blockchain.com/btc/tx/72caecac4fa2028d8dfd1e822238db8bc405a1a30e60a545a24bbed20897eecc">Open on block explorer&lt;/a>&lt;/p>
+&lt;h4 id="step-10-file-the-original-deed-with-the-albany-county-clerk">Step 10. File the Original Deed with the Albany County Clerk&lt;/h4>
+&lt;p>The final step of the transaction, which is often handled by an escrow agent, is to file the signed deed in the county where the property is located. Across the USA, counties are responsible for knowing which entities own each real property in that county. Among other reasons, this is required because property tax falls to the jurisdiction of counties and they need to know who to send the bill to.&lt;/p>
+&lt;p>&lt;img src="tax-page.png" alt="">&lt;/p>
+&lt;p>&lt;a href="https://maps.greenwoodmap.com/albany/map#zcr=17.00366750385988/-11764707.2/5138229.5/0&amp;amp;lyrs=publand,townlim,ownership,roads">County Property Detail Page&lt;/a>&lt;/p>
+&lt;h4 id="step-11-ongoing-maintenance">Step 11. Ongoing Maintenance&lt;/h4>
+&lt;p>There are some ongoing maintenance activities associated with owning real estate and also keeping LLC records current. These duties and costs are shown below.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://itax.tylertech.com/AlbanyWY/detail.aspx?taxid=16394">Annual Property taxes&lt;/a>: &lt;code>$129.87&lt;/code>&lt;/li>
+&lt;li>Community dues: &lt;code>$120.00&lt;/code>&lt;/li>
+&lt;li>Wyoming LLC fee: &lt;code>$60.00&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>There would be obviously consequences for not performing these maintenance activities, including loss of the property itself. Kitchen Lands DAO LLC maintains an on-chain reserve to cover these for years to come, and a member or hired agent will be responsible for handling the transactions.&lt;/p>
+&lt;p>If an existing reserve ran out, a DAO could issue more tokens in exchange for contributors replenishing the reserve. Like any LLC, the DAO members are incentivized to ensure these obligations get paid.&lt;/p>
+&lt;hr>
+&lt;p>If you made it this far, thank you for learning about our DAO LLC proof of concept with Kitchen Lands DAO LLC. If you appreciate this work, please vote for Telos Kitchen as block producer on the Telos blockchain.&lt;/p>
+&lt;p>Read &lt;a href="https://hashed.io/digitalness-1/">Digitalness: Part 1 of 3 - An Underrated Speech&lt;/a>&lt;/p>
+&lt;p>Read &lt;a href="https://hashed.io/digitalness-2">Digitalness: Part 2 of 3 - Digitalness Primer&lt;/a>&lt;/p></content></item><item><title/><link>https://hashed.io/assets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hashed.io/assets/</guid><description>Assets Logos Click to Download Click to Download Png Click to Download Click to Download Click to Download Click to Download Click to Download Avatar Click to Download Click to Download Click to Download Symbol Click to Download Click to Download Click to Download Click to Download Halftone Click to Download Click to Download Click to Download Click to Download Click to Download Click to Download</description><content>&lt;h1 id="assets">Assets&lt;/h1>
 &lt;h2 id="logos">Logos&lt;/h2>
 &lt;div class="grid">
 &lt;figure>
@@ -153,8 +316,8 @@ It is inspiring and features a live presidential demo that erupts to thundering 
 &lt;p>Digitalness empowers people to govern shared goals and assets at an unprecedented speed, durability, and adaptability. This breakthrough innovation will drive economic innovation throughout the 21st century.&lt;/p>
 &lt;p>This Digitalness legislation is broader in scope and scale, yet is cut from the same cloth as the Electronic Signatures Act. At their core, they both serve to &lt;strong>&amp;ldquo;marr[y] our most enduring values to the demands of the new [Digitalness] Age&amp;hellip; for the preservation of liberty itself&amp;rdquo;&lt;/strong>.&lt;/p>
 &lt;hr>
-&lt;p>Read &lt;a href="https://hashed.io/articles/digitalness-part-2">Digitalness: Part 2 of 3 - Digitalness Primer&lt;/a>&lt;/p>
-&lt;p>Read &lt;a href="https://hashed.io/articles/digitalness-part-3">Digitalness: Part 3 of 3 - Step by Step DAO Proof of Concept&lt;/a>&lt;/p></content></item><item><title>Document Graph</title><link>https://hashed.io/dge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hashed.io/dge/</guid><description>Introduction Document Graph is a flexible persistence and modeling framework for blockchain applications.
+&lt;p>Read &lt;a href="https://hashed.io/digitalness-2">Digitalness: Part 2 of 3 - Digitalness Primer&lt;/a>&lt;/p>
+&lt;p>Read &lt;a href="https://hashed.io/digitalness-3">Digitalness: Part 3 of 3 - Step by Step DAO Proof of Concept&lt;/a>&lt;/p></content></item><item><title>Document Graph</title><link>https://hashed.io/dge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hashed.io/dge/</guid><description>Introduction Document Graph is a flexible persistence and modeling framework for blockchain applications.
 Use Cases Document Graph is currently used for a number of use cases. Here are some real-world examples that we are using it for. Interestingly, all of the below use cases can be handled within the same graph where nodes can be linked to each other across contexts.
 DAOs DAOs have have descriptive attributes. They also have members, proposals, assignments, quests, bounties, badges, and many other data types that are maintained to support a fully functional platform.</description><content>&lt;h1 id="introduction">Introduction&lt;/h1>
 &lt;p>Document Graph is a flexible persistence and modeling framework for blockchain applications.&lt;/p>
