@@ -1,7 +1,7 @@
 ---
 title: Digitalness Part 1
 date : 2021-Dec-17
-author : ypp34
+author : Max Gravitt
 ---
 ## An Underrated Speech
 Author: [Max Gravitt](https://github.com/3yekn)
@@ -43,6 +43,6 @@ Digitalness empowers people to govern shared goals and assets at an unprecedente
 
 This Digitalness legislation is broader in scope and scale, yet is cut from the same cloth as the Electronic Signatures Act.  At their core, they both serve to **"marr[y] our most enduring values to the demands of the new [Digitalness] Age... for the preservation of liberty itself"**.
 ***
-Read [Digitalness: Part 2 of 3 - Digitalness Primer](/articles/digitalness-part-2)
+Read [Digitalness: Part 2 of 3 - Digitalness Primer](/digitalness-2)
 
-Read [Digitalness: Part 3 of 3 - Step by Step DAO Proof of Concept](/articles/digitalness-part-3)
+Read [Digitalness: Part 3 of 3 - Step by Step DAO Proof of Concept](/digitalness-3)
