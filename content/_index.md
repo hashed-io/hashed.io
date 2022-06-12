@@ -24,7 +24,6 @@ We operate high-availability, low-latency production nodes on the world’s top 
 
 Polkadot/Substrate | Bitcoin | EOSIO | Ethereum 
 
-
 # Experience
 
 | Area | Project |
