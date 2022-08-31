@@ -1,3 +1,6 @@
+# Hashed Network
+05 Aug 2022 - [Hashed Network - MD5 Testnet Launch](/hashed-network)
+
 # Digitalness Series
 22 Nov 2021 - [Digitalness - Part 1 - An Underrated Speech](/digitalness-1)
 
