@@ -1097,4 +1097,21 @@ compress("\n@startuml\ntitle \u0022Fruniques Composability\u0022\nnode \u0022Sta
 &lt;p>Roadmap: Integrate support for native multisig BTC in the treasury via PSBT and output descriptors&lt;/p>
 &lt;h4 id="societyhttpswikipolkadotnetworkdocsmaintain-guides-society-kusama">&lt;a href="https://wiki.polkadot.network/docs/maintain-guides-society-kusama">Society&lt;/a>&lt;/h4>
 &lt;p>The Society module is an economic game which incentivizes users to participate and maintain a membership society.&lt;/p>
-&lt;h4 id="bountieshttpswikipolkadotnetworkdocslearn-treasurybounties-spending">&lt;a href="https://wiki.polkadot.network/docs/learn-treasury#bounties-spending">Bounties&lt;/a>&lt;/h4></content></item></channel></rss>
+&lt;h4 id="bountieshttpswikipolkadotnetworkdocslearn-treasurybounties-spending">&lt;a href="https://wiki.polkadot.network/docs/learn-treasury#bounties-spending">Bounties&lt;/a>&lt;/h4></content></item><item><title>Hashed Network</title><link>https://hashed.io/hashed-network/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hashed.io/hashed-network/</guid><description>Site Launch Hashed Network, which was previously an &amp;ldquo;Under Construction&amp;rdquo; website, was recently updated to include key messaging on each of the core protocols and digital organization tools.
+These include:
+DAO LLC Business pallets Confidential docs Native Bitcoin Vaults Accounting Network services Polkadot XCM Banking integrations Flexible authentication Rococo Connectivity MD5 Network, the Rococo-compatible Testnet instance of the Hashed Network is operational and available here: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fc1.md5.network#/explorer</description><content>&lt;h2 id="site-launch">Site Launch&lt;/h2>
+&lt;p>&lt;a href="https://hashed.network">Hashed Network&lt;/a>, which was previously an &amp;ldquo;Under Construction&amp;rdquo; website, was recently updated to include key messaging on each of the core protocols and digital organization tools.&lt;/p>
+&lt;p>These include:&lt;/p>
+&lt;ul>
+&lt;li>DAO LLC&lt;/li>
+&lt;li>Business pallets&lt;/li>
+&lt;li>Confidential docs&lt;/li>
+&lt;li>Native Bitcoin Vaults&lt;/li>
+&lt;li>Accounting&lt;/li>
+&lt;li>Network services&lt;/li>
+&lt;li>Polkadot XCM&lt;/li>
+&lt;li>Banking integrations&lt;/li>
+&lt;li>Flexible authentication&lt;/li>
+&lt;/ul>
+&lt;h2 id="rococo-connectivity">Rococo Connectivity&lt;/h2>
+&lt;p>MD5 Network, the Rococo-compatible Testnet instance of the Hashed Network is operational and available here: &lt;a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fc1.md5.network#/explorer">https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fc1.md5.network#/explorer&lt;/a>&lt;/p></content></item></channel></rss>
