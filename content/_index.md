@@ -8,16 +8,6 @@
 
 22 Nov 2021 - [Digitalness - Part 3 - Kitchen Lands DAO LLC buys 35 acres in Wyoming](digitalness-3)
 
-# News
-
-27 May 2022 - [Overview of Hashed Network](https://youtu.be/2vWnCj8vxXc)
-
-02 Feb 2022  - [Launch of Hashed Chain Chaos network](hashed-chain)
-
-30 Jan 2022  -  [Document Graph Explorer opens Public BETA on Telos](dge)
-
-05 Jan 2022 – [Hashed Summit 2021](team)
-
 # About
 
 Hashed provides products and services enabled by blockchain technology. Our platform features high quality, well-tested building blocks that jumpstart new product development.
