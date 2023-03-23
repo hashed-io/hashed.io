@@ -11,12 +11,12 @@ Polkadot/Substrate | Bitcoin | EOSIO | Ethereum
 
 | Area | Project |
 | ----------- | ----------- |
+| **Bitcoin**  | - NBV: Configurable Multisig Bitcoin wallet with substrate IDs. <br /> - Coinstr: A visual policy engine built on Taproot/Tapscript and Nostr.|
 | **Enterprise**     | - Top 10 Global Bank: Inter-bank asset tokenization plattform.<br /> - S&K: Due diligence analytics platform for REITS, IF, and CEF.<br /> -  Proxy Financial: On-chain applications for RE Broker-Dealers. <br /> - Afloat: A fractional tax credit markeplace for the US.<br />     |
 | **DAO**   | - Hypha: Multi-tenant platform with flexible governance models.<br />  - Double-entry accounting product with Multi Token support.<br /> - Undisclosed: Smart contract's for  WY registered DAOs<br />|
 | **DeFi** | - BennyFi: Premium Bond mechanics for crypto yields.<br /> - Seeds: Peer-to-peer token to fiat exchange plattform.<br /> - PleadePool: Staking pools for no-loss project funding|
 | **NFT**  | - Diamond Standard: NFTs backed by diamonds. Enabling trading.<br />- Undisclosed: NFT smart contracts for international artists.<br />|
 | **Infra**  | - Pioneer Telos network Block Producer.<br /> - Hashed Network: Secure and operate a parachain in Polkadot.<br /> |
-| **Bitcoin**  | - Design and develop a Multisig application integrated that uses Polkadot and bluewallet.<br /> -  Design and develop a policy engine using Taproot/Tapscript with Nostr for identity. <br />|
 
 # Focus
 
