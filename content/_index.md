@@ -27,6 +27,7 @@ Polkadot/Substrate | Bitcoin | EOSIO | Ethereum
 | **NFT**  | - Diamond Standard: NFTs backed by diamonds. Enabling trading.<br />- Undisclosed: NFT smart contracts for international artists.<br />|
 | **Infra**  | - Pioneer Telos network Block Producer.<br /> - Hashed Network: Bid, win and operate a parachain in Polkadot.<br /> |
 | **Afloat**  | - A fractional tax credit markeplace for the US.<br /> |
+| **Bitcoin**  | - Design and develop a Multisig application integrated that uses Polkadot and bluewallet.<br /> -  Design and develop a policy engine using Taproot/Tapscript with Nostr for identity. <br />|
 
 # Focus
 
