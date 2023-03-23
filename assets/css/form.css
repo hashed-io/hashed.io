@@ -33,3 +33,10 @@ form input[type="submit"]:hover {
   color: var(--color);
   border-color: var(--accent);
 }
+
+@media screen and (max-width: 920px) {
+  form input[type="submit"] {
+    font-size: 1rem;
+    padding: 1rem 2.5rem;
+  }
+}
