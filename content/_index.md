@@ -31,6 +31,6 @@ Polkadot/Substrate | Bitcoin | EOSIO | Ethereum
 
 # Focus
 
-Asset Tokenization | Node Operations | NFT | Identity | DAO | Bitcoin 
+Bitcoin | Fund Management | Nostr | NFT | Asset Tokenization | DAO
 
 
