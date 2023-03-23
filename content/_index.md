@@ -25,7 +25,7 @@ Polkadot/Substrate | Bitcoin | EOSIO | Ethereum
 | **DAO**   | - Hypha: Multi-tenant platform with flexible governance models.<br />  - Double-entry accounting product with Multi Token support.<br /> - Undisclosed: Smart contract's for  WY registered DAOs<br />|
 | **DeFi** | - BennyFi: Premium Bond mechanics for crypto yields.<br /> - Seeds: Peer-to-peer token to fiat exchange plattform.<br /> - PleadePool: Taking pools for no-loss project funding|
 | **NFT**  | - Diamond Standard: NFTs backed by diamonds. Enabling trading.<br />- Undisclosed: NFT smart contracts for international artists.<br />|
-| **Nodes**  | - Pioneer Telos network Block Producer.<br /> |
+| **Infra**  | - Pioneer Telos network Block Producer.<br /> |
 | **Afloat**  | - A fractional tax credit markeplace for the US.<br /> |
 
 # Focus
