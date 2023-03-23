@@ -26,6 +26,7 @@ Polkadot/Substrate | Bitcoin | EOSIO | Ethereum
 | **DeFi** | - BennyFi: Premium Bond mechanics for crypto yields.<br /> - Seeds: Peer-to-peer token to fiat exchange plattform.<br />|
 | **NFT**  | - Diamond Standard: NFTs backed by diamonds. Enabling trading.<br />- Undisclosed: NFT smart contracts for international artists.<br />|
 | **Nodes**  | - Pioneer Telos network Block Producer.<br /> |
+| **Afloat**  | - A fractional tax credit markeplace for the US.<br /> |
 
 # Focus
 
