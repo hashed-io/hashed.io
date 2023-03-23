@@ -23,7 +23,7 @@ Polkadot/Substrate | Bitcoin | EOSIO | Ethereum
 | ----------- | ----------- |
 | **Enterprise**     | - Top 10 Global Bank: Inter-bank asset tokenization plattform.<br /> - S&K: Due diligence analytics platform for REITS, IF, and CEF.<br /> -  Proxy Financial: On-chain applications for RE Broker-Dealers.      |
 | **DAO**   | - Hypha: Multi-tenant platform with flexible governance models.<br />  - Double-entry accounting product with Multi Token support.<br /> - Undisclosed: Smart contract's for  WY registered DAOs<br />|
-| **DeFi** | - BennyFi: Premium Bond mechanics for crypto yields.<br /> - Seeds: Peer-to-peer token to fiat exchange plattform.<br />|
+| **DeFi** | - BennyFi: Premium Bond mechanics for crypto yields.<br /> - Seeds: Peer-to-peer token to fiat exchange plattform.<br /> - PleadePool: Taking pools for no-loss project funding|
 | **NFT**  | - Diamond Standard: NFTs backed by diamonds. Enabling trading.<br />- Undisclosed: NFT smart contracts for international artists.<br />|
 | **Nodes**  | - Pioneer Telos network Block Producer.<br /> |
 | **Afloat**  | - A fractional tax credit markeplace for the US.<br /> |
